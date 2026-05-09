@@ -5,5 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 umap-learn
-tensorflow-cpu
 scipy
